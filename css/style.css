@@ -405,7 +405,7 @@ body a:visited {
 .post .card-header .title a {
   display: block;
   line-height: 25px;
-  font-size: 19px;
+  font-size: 15px;
   overflow: hidden;
   color: #444;
 }
@@ -414,7 +414,7 @@ body a:visited {
   margin-top: 2px;
   display: block;
   line-height: 25px;
-  font-size: 19px;
+  font-size: 15px;
   overflow: hidden;
   color: #222;
 }
